@@ -1,0 +1,37 @@
+
+html{
+    background-color: black;
+}
+
+body{    
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+}
+
+p{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 15pt;
+    color: white;
+    display:inline
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    background-color:white;
+    color:black;
+    height: 30px;
+    border: 1px solid white;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    transition: .5s ease;
+}
